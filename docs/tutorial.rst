@@ -57,8 +57,8 @@ periodically to reflect the changes if any.
 Importing Modules
 -----------------
 
-An Airflow pipeline is just a Python script that happens to define an
-Airflow DAG object. Let's start by importing the libraries we will need.
+An Airflow pipeline is a Python script that defines an Airflow DAG 
+object. Let's start by importing the libraries we will need.
 
 .. exampleinclude:: ../airflow/example_dags/tutorial.py
     :language: python
